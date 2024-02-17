@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="ParameterPreset" id="{2f711e53-d5ec-4ec9-9045-a34087dc62bf}">
+		<property name="name">
+			<value>musicTrack</value>
+		</property>
+		<relationship name="folder">
+			<destination>{9ec4df2b-8c75-4fbe-9c2f-6fe2babf94a0}</destination>
+		</relationship>
+		<relationship name="parameter">
+			<destination>{1c4e1739-2a51-4e26-9d33-e69153a71596}</destination>
+		</relationship>
+	</object>
+	<object class="GameParameter" id="{1c4e1739-2a51-4e26-9d33-e69153a71596}">
+		<property name="parameterType">
+			<value>2</value>
+		</property>
+		<property name="maximum">
+			<value>2</value>
+		</property>
+		<property name="enumerationLabels">
+			<value>defaultTrack</value>
+			<value>osTrack</value>
+		</property>
+		<property name="initialValue">
+			<value>0</value>
+		</property>
+	</object>
+</objects>
