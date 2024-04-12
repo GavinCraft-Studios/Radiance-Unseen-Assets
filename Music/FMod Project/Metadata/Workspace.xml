@@ -1,6 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <objects serializationModel="Studio.02.02.00">
 	<object class="Workspace" id="{a1d58bed-90a0-4bbd-bfa5-890adb37c6e0}">
+		<property name="builtBanksOutputDirectory">
+			<value>Built Banks</value>
+		</property>
 		<relationship name="masterEventFolder">
 			<destination>{2457f6e5-93cb-4262-b73b-36761423a10b}</destination>
 		</relationship>
