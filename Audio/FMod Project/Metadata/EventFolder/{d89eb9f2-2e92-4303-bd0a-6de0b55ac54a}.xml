@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="EventFolder" id="{d89eb9f2-2e92-4303-bd0a-6de0b55ac54a}">
+		<property name="name">
+			<value>Pause OS</value>
+		</property>
+		<relationship name="folder">
+			<destination>{2833bbb6-e1b8-4196-ac05-ae0e4409952a}</destination>
+		</relationship>
+	</object>
+</objects>
